@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/CameraApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Geo-Plant" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/GithubUserApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KWUapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Kediri-Lagi" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/KursusKu" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwipeApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SwipeBack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/VideoViewApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/simplecrud" vcs="Git" />
+  </component>
+</project>
